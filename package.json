@@ -1,0 +1,21 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "IBM Full Stack Course - Generative AI Final Project Assessment",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Naim FAizy",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2",
+    "supertest": "^7.0.0"
+  }
+}
